@@ -1,11 +1,6 @@
-# Tugas Individu Deep Learning: Implementasi CNN & RNN
-
-Repositori ini berisi implementasi dua arsitektur Deep Learning untuk memenuhi penugasan mata kuliah Deep Learning.
-
-## 📌 Identitas Mahasiswa
 - **Nama:** Femilia Padaunan
 - **NIM:** H071241012
-- **Kelas:** Deep Learning
+- **Kelas:** Deep Learning A
 
 ---
 
@@ -20,6 +15,3 @@ Repositori ini berisi implementasi dua arsitektur Deep Learning untuk memenuhi p
 - **Dataset:** IMDb Movie Reviews (Analisis sentimen ulasan teks positif/negatif).
 - **Arsitektur:** *Embedding Layer* (max_features=10000), *LSTM Layer* (64 unit dengan dropout), dan *Sigmoid Output Layer*.
 - **File Notebook:** `02_RNN_IMDb/rnn_imdb_sentiment.ipynb`
-
----
-*Proyek ini diselesaikan menggunakan Google Colab dan TensorFlow/Keras.*
