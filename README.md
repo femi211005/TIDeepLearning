@@ -5,7 +5,7 @@ Repositori ini berisi implementasi dua arsitektur Deep Learning untuk memenuhi p
 ## 📌 Identitas Mahasiswa
 - **Nama:** Femilia Padaunan
 - **NIM:** H071241012
-- **Kelas:** Manajemen Proyek Sistem Informasi A
+- **Kelas:** Deep Learning
 
 ---
 
